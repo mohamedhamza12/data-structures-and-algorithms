@@ -1,1 +1,3 @@
-# data-structures-and-algorithms
+# Data Structures & Algorithms
+
+My own implmentation of some DS&A using JavaScript
